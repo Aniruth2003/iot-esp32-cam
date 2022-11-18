@@ -1,0 +1,41 @@
+
+[21:32:07 16/11/22]   Please Select a File 
+[21:32:30 16/11/22]   Failed to upload. selected file is Grater than 2MB 
+[21:32:49 16/11/22]   Please upload an image file. Allowed extensions are .png, .jpg, .jpeg, .gif 
+[21:50:48 16/11/22]   The Bird name is 004.Groove_billed_Ani          and uploaded file is img1.jpg 
+[21:51:39 16/11/22]   The Bird name is 008.Rhinoceros_Auklet          and uploaded file is img11.jpg 
+[21:52:02 16/11/22]   The Bird name is 001.Black_footed_Albatross     and uploaded file is img2.jpg 
+[22:02:07 16/11/22]   The Bird name is 156.White_eyed_Vireo           and uploaded file is img6.jpg 
+[22:17:58 16/11/22]   The Bird name is 008.Rhinoceros_Auklet          and uploaded file is img11.jpg 
+[22:19:08 16/11/22]   Please Select a File 
+[07:13:26 17/11/22]   Please Select a File 
+[16:38:34 17/11/22]   The Bird name is 035.Purple_Finch               and uploaded file is img8.jpg 
+[20:18:00 17/11/22]   Please Select a File 
+[20:18:37 17/11/22]   Please upload an image file. Allowed extensions are .png, .jpg, .jpeg, .gif 
+[21:37:17 17/11/22]   Please Select a File 
+[21:41:31 17/11/22]   Please Select a File 
+[21:42:41 17/11/22]   Please Select a File 
+[21:43:04 17/11/22]   Please upload an image file. Allowed extensions are .png, .jpg, .jpeg, .gif 
+[21:43:24 17/11/22]   file uploaded successfully.....!!! 
+[21:47:14 17/11/22]   Please Select a File 
+[21:48:01 17/11/22]   Please upload an image file. Allowed extensions are .png, .jpg, .jpeg, .gif 
+[23:42:14 17/11/22]   Please Select a File 
+[23:42:38 17/11/22]   The Bird name is 013.Bobolink                   and uploaded file is img10.jpg 
+[23:43:09 17/11/22]   Uploaded image doesn't countian a bird 
+[23:44:35 17/11/22]   Uploaded image doesn't countian a bird 
+[23:45:09 17/11/22]   The Bird name is 004.Groove_billed_Ani          and uploaded file is img1.jpg 
+[23:49:11 17/11/22]   Please Select a File 
+[23:49:37 17/11/22]   Uploaded image doesn't countian a bird 
+[06:36:03 18/11/22]   Please Select a File 
+[06:36:17 18/11/22]   Uploaded image doesn't countian a bird 
+[06:36:42 18/11/22]   file uploaded successfully.....!!! 
+[06:43:23 18/11/22]   File already exits in destination folder 
+[06:45:28 18/11/22]   File already exits in destination folder 
+[06:50:29 18/11/22]   The Bird name is 004.Groove_billed_Ani          and uploaded file is img1.jpg 
+[06:51:58 18/11/22]   Uploaded image doesn't countian a bird 
+[22:35:58 18/11/22]   The Bird name is 002.Laysan_Albatross           and uploaded file is Laysan_Albatross_16_3979_3rd_copy.jpg 
+[23:10:55 18/11/22]   The Bird name is 004.Groove_billed_Ani          and uploaded file is 004.Groove_billed_Ani_11_2802.jpg 
+[23:12:29 18/11/22]   The Bird name is 004.Groove_billed_Ani          and uploaded file is 004.Groove_billed_Ani_11_2802.jpg 
+[23:12:59 18/11/22]   The Bird name is 046.Gadwall                    and uploaded file is Pigeons_Birds_Men_New_449132.jpg 
+[23:13:58 18/11/22]   A human is detected 
+[23:15:04 18/11/22]   An Object movement is detected 

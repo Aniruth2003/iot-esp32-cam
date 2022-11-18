@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Logs Page</title>
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+    </head>
+
+    <body>
+        <nav class="navtop">
+			<div>
+				<h1>Bird Species Classification</h1>
+                <a href="{{ url_for('home') }}"><i class="fas fa-home"></i>Home</a>
+				<a href="{{ url_for('gallery') }}"><i class="fas fa-user-circle"></i>Gallery</a>
+				<a href="#"><i class="fas fa-envelope"></i>Logs</a>
+				<a href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i>Logout</a>
+			</div>
+		</nav>
+        
+        <div class="content">
+            <h2>My Logs</h2>
+        
+            <textarea rows="40" cols="150" disabled>   
+                {% for line in log %}
+                    {{ line }}
+                {% endfor %}
+            </textarea>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Home</title>
+
+        <style>
+            .main{
+                margin: 20px;
+            }
+
+            .gall{
+                margin: 20px;
+            }
+
+            .logs{
+                margin: 20px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Form</h1>
+
+        <div class="main">
+            <form action="/result" method="post" enctype="multipart/form-data">
+                <input type="file" name="image">
+                <input type="submit" value="Predict">
+            </form>
+        </div>
+
+        <a class="logs" href="{{ url_for('view_log') }}">
+            <button type="submit">View Logs</button>
+        </a>
+        
+        <a class="gall" href="{{ url_for('gallery') }}">
+            <input type="submit" value="View Gallery">
+        </a>
+        
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Home</title>
+
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+	</head>
+	<body class="loggedin">
+		<nav class="navtop">
+			<div>
+				<h1>Bird Species Classification</h1>
+                <a href="#"><i class="fas fa-home"></i>Home</a>
+				<a href="{{ url_for('gallery') }}"><i class="fas fa-user-circle"></i>Gallery</a>
+				<a href="{{ url_for('view_log') }}"><i class="fas fa-envelope"></i>Logs</a>
+				<a href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i>Logout</a>
+			</div>
+		</nav>
+
+		<div class="content">
+			<form action="/result" method="post" enctype="multipart/form-data">
+                <input type="file" name="image">
+                <input type="submit" value="Predict">
+            </form>
+		</div>
+	</body>
+</html>
