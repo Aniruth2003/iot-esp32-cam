@@ -52,8 +52,8 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-- [@Aniruth](https://www.github.com/)
-- [@Shyam](https://www.github.com/)
+- [@Aniruth7171](https://www.github.com/Aniruth7171)
+- [@KarnamShyam1947](https://www.github.com/KarnamShyam1947)
 - [@sanjay7178](https://www.github.com/sanjay7178)
 
 ## Screenshots
